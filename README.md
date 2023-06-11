@@ -1,4 +1,4 @@
-# EX-06:
+# Ex-06:
 ## SET OPERATIONS
 ### AIM:
 The aim of this program is to perform set operations (Union, Union All, Intersect, and Except) between two tables, A and B, in order to combine, find common elements, or identify differences between the tables.
